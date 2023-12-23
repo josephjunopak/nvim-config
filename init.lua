@@ -1,0 +1,2 @@
+require("jpak")
+print("hello")
