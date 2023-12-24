@@ -1,2 +1,1 @@
-require("jpak")
-print("hello")
+require("joseph")
